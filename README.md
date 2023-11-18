@@ -5,7 +5,7 @@ I'm Karthik Pythireddi, a Software Validation Engineer working on Autonomous Veh
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-In-blue)](https://www.linkedin.com/in/karthikpythireddi/)
 [![Twitter Follow](https://img.shields.io/badge/X-Follow-grey)](https://twitter.com/karthikitis)
-[![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=karthikpythireddi)]
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=karthikpythireddi)
 
 ## Skills & Tools
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
