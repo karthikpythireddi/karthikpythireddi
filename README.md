@@ -1,9 +1,24 @@
-# Hello World! 
+<h1 align="center">Hello World! 👋</h1>
 
-# I'm Karthik Pythireddi, A Software Validation Engineer working on Autonomous Vehicles. 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/karthikpythireddi/) [![Twitter Follow](https://img.shields.io/twitter/follow/{karthikitis}?style=social)](https://twitter.com/{karthikitis}) ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=karthikpythireddi)
+<h2 align="center">I'm Karthik Pythireddi, A Software Validation Engineer working on Autonomous Vehicles.</h2>
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![Julia](https://img.shields.io/badge/Julia-9558B2?style=for-the-badge&logo=julia&logoColor=white)
+<p align="center">
+  <a href="https://www.linkedin.com/in/karthikpythireddi/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="https://twitter.com/karthikitis">
+    <img src="https://img.shields.io/twitter/follow/karthikitis?style=social" alt="Twitter">
+  </a>
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=karthikpythireddi" alt="Visitor Badge">
+</p>
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/Julia-9558B2?style=for-the-badge&logo=julia&logoColor=white" alt="Julia">
+</p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=karthikpythireddi&layout=compact)](https://github.com/karthikpythireddi/github-readme-stats)
+<p align="center">
+  <a href="https://github.com/karthikpythireddi/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=karthikpythireddi&layout=compact" alt="Top Languages">
+  </a>
+</p>
