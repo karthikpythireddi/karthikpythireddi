@@ -1,2 +1,2 @@
 # karthikpythireddi
-[LinkedIn](https://www.linkedin.com/in/karthikpythireddi/)
+[![LinkedIn](LinkedIn-icon-url)](https://www.linkedin.com/in/karthikpythireddi/)
