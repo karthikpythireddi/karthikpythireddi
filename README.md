@@ -25,3 +25,6 @@
 
 ## Certifications
 1. [State Estimation and Localization for Self-Driving Cars - Coursera](https://www.coursera.org/account/accomplishments/verify/9FX5QUAJ7B3A)
+2. [Supervised Machine Learning: Regression and Classification - Coursera](https://www.coursera.org/account/accomplishments/certificate/P45XTZR2WD29)
+3. [Motion Planning for Self-Driving Cars - Coursera](https://www.coursera.org/account/accomplishments/verify/CKB956HE2UYC?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=pdf_header_button&utm_product=course)
+4. [Introduction to Self-Driving Cars - Coursera](https://www.coursera.org/account/accomplishments/verify/74HBFEEFTQ8L)
