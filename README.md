@@ -7,7 +7,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-In-blue" alt="LinkedIn">
   </a>
   <a href="https://twitter.com/karthikitis">
-    <img src="https://img.shields.io/badge/X-Follow-grey" alt="Twitter">
+    <img src="https://img.shields.io/badge/X-Follow-grey" alt="X">
   </a>
   <img src="https://visitor-badge.laobi.icu/badge?page_id=karthikpythireddi" alt="Visitor Badge">
 </p>
