@@ -22,3 +22,6 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=karthikpythireddi&layout=compact" alt="Top Languages">
   </a>
 </p>
+
+## Certifications
+1. [State Estimation and Localization for Self-Driving Cars - Coursera](https://www.coursera.org/account/accomplishments/verify/9FX5QUAJ7B3A)
