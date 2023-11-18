@@ -6,4 +6,4 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![Julia](https://img.shields.io/badge/Julia-9558B2?style=for-the-badge&logo=julia&logoColor=white)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=karthikpythireddi@gmail.com&layout=compact)](https://github.com/karthikpythireddi@gmail.com/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=karthikpythireddi&layout=compact)](https://github.com/karthikpythireddi/github-readme-stats)
