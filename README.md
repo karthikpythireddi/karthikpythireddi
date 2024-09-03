@@ -1,7 +1,7 @@
 # Hello World! 👋
 
 ## About Me
-I'm Karthik Pythireddi, a Software Validation Engineer working on Autonomous Vehicles. I have a passion for Robotics and Autonomous Driving. My current interests are Motion Planning, State Estimation and Reinforcement Learning based techniques.
+I'm Karthik Pythireddi, pursuing MS in EE at Stanford University as well as working as a Software Validation Engineer working on Autonomous Vehicles at Nvidia. I have a passion for Robotics and Autonomous Driving. My current interests are Motion Planning, State Estimation and Reinforcement Learning based techniques.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-In-blue)](https://www.linkedin.com/in/karthikpythireddi/)
 [![Twitter Follow](https://img.shields.io/badge/X-Follow-grey)](https://twitter.com/karthikitis)
